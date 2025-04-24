@@ -1,0 +1,2 @@
+# projekt_inzynierski
+Repozytorium projektu inżynierski studenta Politechniki Śląskiej Grzegorza Urbańskiego
